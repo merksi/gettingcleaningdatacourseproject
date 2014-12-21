@@ -1,6 +1,9 @@
 
 This file is the Codebook for the project for course getting and cleaning data. 
 Author. Ivo Merks, Data: 2014-12-20 
+
+Study Design 
+
 The following steps have been taken in the process of getting and cleaning the data
 0. read all data
    the assumption is that the UCI HAR Dataset is in the working directory 
@@ -44,4 +47,11 @@ The following steps have been taken in the process of getting and cleaning the d
 5.c. run the mean function column wise for each variable for each activity and each subject
 
 6. Please upload your data set as a txt file created with write.table() using row.name=FALSE
+
+
+
+Code book 
+
+There must be a section called "Code book" that descri
+
 
